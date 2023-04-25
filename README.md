@@ -1,10 +1,10 @@
-![325516243_1006655926969700_8235054457168288454_n](https://user-images.githubusercontent.com/10823037/234193037-9fa96700-5eca-4915-8cb3-580ec1e44858.jpg)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/10823037/234193037-9fa96700-5eca-4915-8cb3-580ec1e44858.jpg)](http://www.youtube.com/watch?v=Xbfd8ySwgjs "Hackintosh Asrock Z790 i5 13600KF ")
 - 👋 Hi, I’m @sonvirgo
 - 👀 I’m interested in internet circumventing
 - 🌱 I’m currently selling 4G software to circumvent ISPs inside Vietnam through MEEK, SSL/SSH, V2Ray, etc
 - 💞️ I’m looking to collaborate on the above
 - 📫 From Hà nội - Hackintosh service # +84-387554874, VID Public Bank 197243139 (VND)
-![323771107_3407169082876242_7472016685316800909_n](https://user-images.githubusercontent.com/10823037/234192821-2947a09e-92bf-4533-bf85-bb8a525d0888.jpg)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/10823037/234192821-2947a09e-92bf-4533-bf85-bb8a525d0888.jpg)](https://www.youtube.com/watch?v=KQtA0EmNUEY "Elgamal implement in pure C for IUH")
 🤩🤩 BẢNG GIÁ CODE THUÊ (cập nhật 2-5-2023):
 🔖 Thiết kế phần mềm :
 Bao gồm các chi phí sau:
@@ -31,7 +31,7 @@ Bao gồm các chi phí sau:
 - Bài tập liên quan đến Database: 100k - 200k
 *️⃣️*️⃣️
 Ngôn ngữ hỗ trợ:
-- C++, C, Python 
+- C++, C, Python
 + Linux, Unix, Windows
 - Go lang
 + Mobile, desktop
