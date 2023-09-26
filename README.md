@@ -1,3 +1,11 @@
+HƯỚNG DẪN khách hàng chuẩn bị phiên làm việc Quicksupport. 
+Tắt mọi ứng dụng gõ IME, tiếng Việt, tiếng nước ngoài, ngoại trừ tiếng Anh EN-US. 
+Chuyển ngôn ngữ hiểm thị sang tiếng Anh EN-US. 
+Đặt độ phân giải màn hình cực đại. 
+Đặt tỷ lệ phóng to màn hình cưc đại. 
+Cài đặt ứng dụng IDM. 
+Chuẩn bị 1 thẻ USB nếu có. 
+Luôn túc trực và theo dõi để phối hợp ngay khi cần. 
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/10823037/234193037-9fa96700-5eca-4915-8cb3-580ec1e44858.jpg)](http://www.youtube.com/watch?v=Xbfd8ySwgjs "Hackintosh Asrock Z790 i5 13600KF ")
 - 👋 Hi, I’m @sonvirgo
 - 👀 I’m interested in internet circumventing
