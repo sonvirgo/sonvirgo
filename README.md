@@ -1,3 +1,5 @@
+![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/164836db-62a9-419c-96d6-112e41765493)
+
 HƯỚNG DẪN khách hàng chuẩn bị phiên làm việc Quicksupport. 
 Tắt mọi ứng dụng gõ IME, tiếng Việt, tiếng nước ngoài, ngoại trừ tiếng Anh EN-US. 
 Chuyển ngôn ngữ hiểm thị sang tiếng Anh EN-US. 
