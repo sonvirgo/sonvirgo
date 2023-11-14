@@ -1,3 +1,5 @@
+KHÔNG GỌI ĐIỆN
+CHỈ NHẬN TIN NHẮN HÌNH ẢNH VÀ VIDEO
 ![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/164836db-62a9-419c-96d6-112e41765493)
 
 HƯỚNG DẪN khách hàng chuẩn bị phiên làm việc Quicksupport. 
