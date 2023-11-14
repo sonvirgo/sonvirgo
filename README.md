@@ -61,7 +61,6 @@ Ngôn ngữ hỗ trợ:
 - AutoIT
 - Unity3D
 ............. 
-* Tất cả dịch vụ được bảo hành 7 ngày kể từ ngày gửi *
 
 <!---
 sonvirgo/sonvirgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
