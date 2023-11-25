@@ -29,6 +29,12 @@ Quy định hợp đồng của Team SGA Hà nội
 
 Quí khách lưu ý trước khi quyết định hợp đồng mua EFI hoặc sử dụng dịch vụ
 
+Căn cứ theo điều 36, Luật thương mại 2005. 
+
+Căn cứ vào các quy định pháp luật có liên quan. 
+
+Quy định: 
+
 KHÔNG GỌI ĐIỆN
 CHỈ NHẬN TIN NHẮN HÌNH ẢNH VÀ VIDEO
 
