@@ -23,8 +23,7 @@ Anh em găp bọn chó này nhớ sút võ mõm nó ra nhá 😃
 ![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/c1c52df0-7da5-4cf5-bccb-cc2850b083e8)
 ![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/96f942d0-e7c7-4394-b586-1f7a52cc15b4)
 ![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/57eda4cd-e140-4b59-98ab-f11708fc3956)
-
-
+![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/4fe29e7e-45a2-4abb-b6e0-db5933cae87b)
 
 KHÔNG GỌI ĐIỆN
 CHỈ NHẬN TIN NHẮN HÌNH ẢNH VÀ VIDEO
