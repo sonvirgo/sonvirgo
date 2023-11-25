@@ -25,6 +25,10 @@ Anh em găp bọn chó này nhớ sút võ mõm nó ra nhá 😃
 ![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/57eda4cd-e140-4b59-98ab-f11708fc3956)
 ![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/4fe29e7e-45a2-4abb-b6e0-db5933cae87b)
 
+Quy định hợp đồng của Team SGA Hà nội
+
+Quí khách lưu ý trước khi quyết định hợp đồng mua EFI hoặc sử dụng dịch vụ
+
 KHÔNG GỌI ĐIỆN
 CHỈ NHẬN TIN NHẮN HÌNH ẢNH VÀ VIDEO
 
