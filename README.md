@@ -1,3 +1,22 @@
+BÓC PHỐT GROUP #VNO-HACKINTOSH
+Rẻ rách ko tiền đổi card.
+Có tiền xúc mẹ RX6900XT mà chạy XCODE. Đòi cả Photoshop. VCL
+Kêu gào cài chạy xcode.
+Ok cần chạy xcode thì có xcode.
+Hỏi xong phốt láo. Ránh háng FREE cho chó à 😃
+Làm phúc phải tội, dây với chó chó liếm mặt 😃
+Team SGA Hà Nội cảnh báo Group bẩn. mem bựa 😃
+Rẻ rách, tiền ít, đòi hit.....
+Né con chó bựa này ->  Shogun Raiden    <- né thằng chó group bẩn VNO-#Hackintosh <- ra 500 anh em nhá 🙂
+Anh em găp bọn chó này nhớ sút võ mõm nó ra nhá 😃
+![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/a31b9c99-e956-48d5-89cb-82f68502eefb)
+![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/6040e7a8-cbc9-4932-a00c-5d7eb1704ae4)
+![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/c1c52df0-7da5-4cf5-bccb-cc2850b083e8)
+![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/96f942d0-e7c7-4394-b586-1f7a52cc15b4)
+![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/57eda4cd-e140-4b59-98ab-f11708fc3956)
+
+
+
 KHÔNG GỌI ĐIỆN
 CHỈ NHẬN TIN NHẮN HÌNH ẢNH VÀ VIDEO
 
