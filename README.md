@@ -5,6 +5,7 @@ Ngu dốt về chuyên môn
 Xấu xa về nhân phẩm 
 
 BÓC PHỐT GROUP #VNO-HACKINTOSH ngu, bựa (cha mẹ con chó @trần trọng nghĩa (kirby) này là chó, đẻ ra chó, bạ đâu cắn đó  :D)
+
 Rẻ rách ko tiền đổi card.
 
 Có tiền xúc mẹ RX6900XT mà chạy XCODE. Đòi cả Photoshop. VCL
