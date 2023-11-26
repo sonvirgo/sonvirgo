@@ -1,16 +1,26 @@
 Ví dụ sinh động về bầy đàn sinh viên, ôm mớ lý thuyết xuông, nghèo nàn,  chưa tỏ đã ảo tưởng :D 
+
 Ngu dốt về chuyên môn
-Xấu xa về nhâm phẩm 
+
+Xấu xa về nhân phẩm 
+
 BÓC PHỐT GROUP #VNO-HACKINTOSH ngu, bựa (cha mẹ con chó @trần trọng nghĩa (kirby) này là chó, đẻ ra chó, bạ đâu cắn đó  :D)
 Rẻ rách ko tiền đổi card.
+
 Có tiền xúc mẹ RX6900XT mà chạy XCODE. Đòi cả Photoshop. VCL
 Kêu gào cài chạy xcode.
+
 Ok cần chạy xcode thì có xcode.
+
 Hỏi xong phốt láo. Rảnh háng FREE cho chó à :D
+
 Làm phúc phải tội, dây với chó chó liếm mặt :D
+
 Team SGA Hà Nội cảnh báo Group bẩn. mem bựa :D
 Rẻ rách, tiền ít, đòi hit.....
+
 Né con chó bựa này ->  Shogun Raiden     <- né thằng chó group bẩn VNO-#Hackintosh  trần trọng nghĩa (Kirby) <- ra 500 anh em nhá :)
+
 Anh em găp bọn chó này nhớ sút võ mõm nó ra nhá :D)
 ![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/a31b9c99-e956-48d5-89cb-82f68502eefb)
 ![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/6040e7a8-cbc9-4932-a00c-5d7eb1704ae4)
