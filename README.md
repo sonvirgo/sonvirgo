@@ -1,4 +1,4 @@
-Ví dụ sinh động về bầy đàn sinh viên, ôm mớ lý thuyết xuông, nghèo nàn,  chưa tỏ đã ảo tưởng :D 
+Ví dụ sinh động về 1 sô sinh viên, bầy đàn, ôm mớ lý thuyết xuông, nghèo nàn,  chưa tỏ đã ảo tưởng :D 
 
 Ngu dốt về chuyên môn
 
