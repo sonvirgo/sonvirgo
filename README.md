@@ -1,3 +1,7 @@
+![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/7e98f2d3-7873-4289-9c62-99c5af2cfeb7)
+
+![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/829c09be-fc12-45cd-962c-b4028dc18bf5)
+
 Ví dụ sinh động về 1 số sinh viên hoang tưởng, bầy đàn, ôm mớ lý thuyết xuông, nghèo nàn,  chưa tỏ đã ảo tưởng :D 
 
 Ngu dốt về chuyên môn
