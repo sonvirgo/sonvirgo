@@ -1,15 +1,27 @@
 macOS 12 Gtx1050ti Xcode runs fine :D Full QE/CI
+
 Metal is not an issue if your dont need Metal. Many macOS ecosystem softwares still run on OpenGL. Even Xcode itself runs on OpenGL.
-Unless you develop some software in Xcode that use Metal API,.and you want to test the app in Metal Framework . If you just develop iOS app on Xcode, it should be fine without Metal. Stupid idiots just barks and barks :D
+Unless you develop some software in Xcode that use Metal API,.and you want to test the app in Metal Framework . If you just develop iOS app on Xcode, it should be fine without Metal. 
+
+Stupid idiots just barks and barks :D
+
 How do you think when people run Xcode on VMware
+
 Just some stupid jealous to critics :D
+
 Any one show me his Xcode project using Metal Framework , or just some stupid bookworms :D What the heck thier business to do with Metal, CUDA, NVenc kkkk :D
+
 Many stupid guys said Nvidia Web driver died blo bla.....
+
 The problem is to Hackintosh or to NOT Hackintosh :D
+
 What to demonstrate here. Reading proficiency , or handon experience ?
+
 Scam ba la bo lo.....
 :D :D
+
 Stupid is stupid
+
 GTX1050TI E5 2696 v2 X79 Monterey
 ![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/7e98f2d3-7873-4289-9c62-99c5af2cfeb7)
 
