@@ -13,6 +13,7 @@ Thể hiện trình độ
 Vừa ĂN CẮP vừa LA LÀNG
 
 :D :D :D
+
 macOS 12 Gtx1050ti Xcode runs fine :D Full QE/CI
 
 Metal is not an issue if your dont need Metal. Many macOS ecosystem softwares still run on OpenGL. Even Xcode itself runs on OpenGL.
