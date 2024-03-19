@@ -4,9 +4,10 @@ Who I am
 ![IMG_20230224_230225](https://github.com/sonvirgo/sonvirgo/assets/10823037/9e3ae9b8-5a0d-440a-bb82-35892271fa3a)
 
 
-![IMG_20230224_231501](https://github.com/sonvirgo/sonvirgo/assets/10823037/22a92eda-9f33-44b1-8080-cbebaf15486f)
+![IMG_20230224_231501](https://github.com/sonvirgo/sonvirgo/assets/10823037/5a26a390-5840-4fd9-86cf-08c899c8a5a4)
 
-![Image(063)](https://github.com/sonvirgo/sonvirgo/assets/10823037/1827ea92-8887-4f95-ad3e-dbac8ca14380)
+
+![Image(063)](https://github.com/sonvirgo/sonvirgo/assets/10823037/5cffceca-dc62-4cca-b342-d752c2c9672a)
 
 
 ![Image(062)](https://github.com/sonvirgo/sonvirgo/assets/10823037/dc7e4e62-a23d-46df-8c4e-bb03866827df)
