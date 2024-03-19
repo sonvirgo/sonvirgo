@@ -15,6 +15,12 @@ Who I am
 
 What I do
 
+![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/17d2bacb-67b2-4087-8379-b2f8551fce08)
+
+![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/d09a75a3-7982-4a9c-8c8e-5654c20ebd7c)
+
+![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/a5d5c438-39cc-4cfa-aafa-3fa38535d4a2)
+
 Team SGA Hà Nội cảnh báo hiện tượng 
 
 Check legit rẻ rách
