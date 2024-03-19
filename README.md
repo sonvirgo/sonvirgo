@@ -2,9 +2,11 @@ Who I am
 ![IMG_20230224_230211](https://github.com/sonvirgo/sonvirgo/assets/10823037/1d979793-a1e1-4c85-a282-e3461ab522cc)
 ![IMG_20230225_054201](https://github.com/sonvirgo/sonvirgo/assets/10823037/abe54470-92d4-4a01-be04-8aa69c119eb7)
 ![IMG_20230224_230225](https://github.com/sonvirgo/sonvirgo/assets/10823037/9e3ae9b8-5a0d-440a-bb82-35892271fa3a)
-![IMG_20230224_231501](https://github.com/sonvirgo/sonvirgo/assets/10823037/0367533b-b02a-43da-bc73-25bf786f96b2)
 
-![Image(063)](https://github.com/sonvirgo/sonvirgo/assets/10823037/787a3363-5d96-4006-9cca-ca30bf30f114)
+
+![IMG_20230224_231501](https://github.com/sonvirgo/sonvirgo/assets/10823037/22a92eda-9f33-44b1-8080-cbebaf15486f)
+
+![Image(063)](https://github.com/sonvirgo/sonvirgo/assets/10823037/1827ea92-8887-4f95-ad3e-dbac8ca14380)
 
 Team SGA Hà Nội cảnh báo hiện tượng 
 
