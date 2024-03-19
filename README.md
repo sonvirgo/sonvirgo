@@ -7,6 +7,11 @@ Who I am
 ![IMG_20230224_231501](https://github.com/sonvirgo/sonvirgo/assets/10823037/22a92eda-9f33-44b1-8080-cbebaf15486f)
 
 ![Image(063)](https://github.com/sonvirgo/sonvirgo/assets/10823037/1827ea92-8887-4f95-ad3e-dbac8ca14380)
+
+
+![Image(062)](https://github.com/sonvirgo/sonvirgo/assets/10823037/dc7e4e62-a23d-46df-8c4e-bb03866827df)
+
+
 What I do
 
 Team SGA Hà Nội cảnh báo hiện tượng 
