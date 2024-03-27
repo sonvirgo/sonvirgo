@@ -39,6 +39,8 @@ Vừa ĂN CẮP vừa LA LÀNG
 
 ![z5290345957297_29acaf4f961e1dcd041b2f6f736633b7](https://github.com/sonvirgo/sonvirgo/assets/10823037/e28d9078-1891-4219-81b9-26fb8593651e)
 
+![z5290426052283_416b6a45d167ef2673797a4ecfb7e45c](https://github.com/sonvirgo/sonvirgo/assets/10823037/e0f4ecb8-865e-4fb4-8eac-9ec090bd4462)
+
 
 macOS 12 Gtx1050ti Xcode runs fine :D Full QE/CI
 
