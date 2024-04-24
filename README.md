@@ -36,6 +36,7 @@ Vừa ĂN CẮP vừa LA LÀNG
 
 :D :D :D
 ![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/637eb4ab-8698-4ee9-bedb-5ce215354df8)
+![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/a2a45d7d-9a34-405a-9e09-817ef5ef126f)
 
 
 
