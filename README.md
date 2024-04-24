@@ -35,6 +35,9 @@ Thể hiện trình độ
 Vừa ĂN CẮP vừa LA LÀNG
 
 :D :D :D
+![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/7d0e7e7f-667f-4b36-8101-fa0fda694fd1)
+
+
 ![z5290345908891_5ffe71a2f9341fdb521a8e8c84b82e57](https://github.com/sonvirgo/sonvirgo/assets/10823037/22e47a55-8419-4655-9033-1add1cfeeef4)
 
 ![z5290345957297_29acaf4f961e1dcd041b2f6f736633b7](https://github.com/sonvirgo/sonvirgo/assets/10823037/e28d9078-1891-4219-81b9-26fb8593651e)
