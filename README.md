@@ -39,6 +39,7 @@ Vừa ĂN CẮP vừa LA LÀNG
 ![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/a2a45d7d-9a34-405a-9e09-817ef5ef126f)
 
 
+![image](https://github.com/sonvirgo/sonvirgo/assets/10823037/0d722f5f-61e6-4394-93dd-bb51a1d08aa3)
 
 ![z5290345908891_5ffe71a2f9341fdb521a8e8c84b82e57](https://github.com/sonvirgo/sonvirgo/assets/10823037/22e47a55-8419-4655-9033-1add1cfeeef4)
 
